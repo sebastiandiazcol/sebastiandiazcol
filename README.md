@@ -1,6 +1,7 @@
+![Portada](Banner%20para%20Linkedin%20desarrollador%20web%20moderno%20azul%20verde.jpg)
+
 # 💫 About Me:
  ¡Hola, soy Sebastián!<br><br>- Estadístico en formación con un fuerte interés en **Ciencia de Datos** y **Modelado Predictivo**.<br>- Ingeniero de Sistemas, especializado en la **integración de herramientas de análisis** como R, Python y SQL.<br>- Apasionado por resolver problemas complejos utilizando técnicas avanzadas de **visualización de datos**.<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebastiandiazcol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastiandiazcol) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sebastiandiazcol) 
