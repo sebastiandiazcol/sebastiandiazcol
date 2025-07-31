@@ -1,4 +1,4 @@
-![Portada](Banner%20para%20Linkedin%20desarrollador%20web%20moderno%20azul%20verde.jpg)
+![Portada](Banner%20para%20Linkedin%20Licenciada%20Recursos%20Humanos%20Minimalista%20Blanco.png)
 
 # 💫 About Me:
  ¡Hola, soy Sebastián!<br><br>- Estadístico en formación con un fuerte interés en **Ciencia de Datos** y **Modelado Predictivo**.<br>- Ingeniero de Sistemas, especializado en la **integración de herramientas de análisis** como R, Python y SQL.<br>- Apasionado por resolver problemas complejos utilizando técnicas avanzadas de **visualización de datos**.<br>
