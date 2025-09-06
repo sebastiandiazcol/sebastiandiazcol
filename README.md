@@ -24,13 +24,13 @@ Con una doble titulación en **Ingeniería de Sistemas y Estadística**, uno la 
 
 ### 🚀 Mis Proyectos Destacados
 
-Aquí puedes ver una selección de mi trabajo. ¡Cada proyecto es un nuevo desafío y una oportunidad de aprendizaje!
+Aquí puedes ver una selección de mi trabajo, desde análisis estadísticos profundos hasta soluciones de negocio aplicadas.
 
 | Proyecto | Descripción | Tecnologías Utilizadas |
 | :--- | :--- | :--- |
-| **[Análisis Predictivo de Deserción Estudiantil](https://github.com/tu-usuario-github/proyecto-desercion)** | Desarrollé un modelo de clasificación para predecir la probabilidad de deserción y realicé un análisis exploratorio (EDA) para identificar los factores de mayor impacto en la retención. | `Python` `Scikit-learn` `Pandas` `Tableau` |
-| **[Dashboard de Análisis de Ventas Globales](https://github.com/tu-usuario-github/proyecto-ventas)** | Diseñé un dashboard en Power BI para analizar tendencias de ventas (+1M de registros) y escribí consultas SQL complejas para la limpieza y agregación de los datos. | `SQL` `Power BI` `DAX` `ETL` |
-| **[Optimización de Inventarios MRO](https://github.com/tu-usuario-github/proyecto-mantenimiento)** | Realicé un análisis de inventario para una empresa industrial, identificando repuestos obsoletos y de baja rotación para liberar capital de trabajo. | `Python` `Pandas` `SQL` `Excel` |
+| **[Análisis de Supervivencia - Cáncer de Ovario](https://github.com/sebastiandiazcol/kaplan-meier-survival-analysis)** | Análisis de supervivencia con Kaplan-Meier para identificar factores pronósticos clave (edad, tratamiento) en la supervivencia de pacientes. | `R` `Survival Analysis` `ggplot2` |
+| **[Análisis de Supervivencia - Cáncer de Pulmón](https://github.com/sebastiandiazcol/NCCTG-Lung-Cancer-Data)** | EDA y análisis de supervivencia para determinar el impacto del sexo y el estado funcional en el pronóstico de pacientes con cáncer de pulmón. | `R` `Tidyverse` `EDA` |
+| **[Optimización de Inventarios MRO](https://github.com/tu-usuario-github/proyecto-mantenimiento)** | Análisis de inventario para una empresa industrial, identificando repuestos obsoletos y de baja rotación para liberar capital de trabajo. | `Python` `Pandas` `SQL` `Excel` | 
 
 ---
 
