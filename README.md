@@ -1,29 +1,59 @@
-![Portada](Banner%20para%20Linkedin%20Licenciada%20Recursos%20Humanos%20Minimalista%20Blanco.png)
+# 👋 ¡Hola! Soy Sebastián Díaz
 
-# 💫 About Me:
- ¡Hola, soy Sebastián!<br><br>- Estadístico en formación con un fuerte interés en **Ciencia de Datos** y **Modelado Predictivo**.<br>- Ingeniero de Sistemas, especializado en la **integración de herramientas de análisis** como R, Python y SQL.<br>- Apasionado por resolver problemas complejos utilizando técnicas avanzadas de **visualización de datos**.<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analyst-003640?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJDNy41OSAyIDQgNS41OSAxIDljMi40OCAwIDQuNzcgMS40NyA2IDMuNUM5LjIzIDEwLjQ3IDExLjUxIDkgMTQgOWMyLjQ4IDAgNC43NyAxLjQ3IDYgMy41QzE3LjIzIDEwLjQ3IDE5LjUxIDkgMjIgOWMtMi40OCAwLTQuNzcgMS40Ny02IDMuNWMxLjIzIDIuMDMgMy41MiAzLjUgNiAzLjVjMCAzLjU5LTQuNDEgNi40Ny0xMCA2LjQ3UzIgMTYuMDkgMiAxMi41YzIuNDggMCA0Ljc3LTEuNDcgNi0zLjVDNS43NyA2Ljk3IDMuNDggNC41IDEgNC41YzEuMjMtMi4wMyAzLjUyLTMuNSAgNi0zLjVjMi43NiAwIDUtMi4yNCA1LTUiIGZpbGw9IiM1NEJEQTUiLz48L3N2Zz4="/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-066050?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/SQL_&_Cloud_Data-54BDA5?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebastiandiazcol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastiandiazcol) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sebastiandiazcol) 
+Analista de Datos apasionado por transformar datos complejos en decisiones de negocio rentables. Mi expertise se centra en **SQL**, **Business Intelligence (Power BI, Tableau)** y el análisis de datos en entornos **Cloud (AWS, GCP)**.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sebastiandiazcol&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sebastiandiazcol&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiandiazcol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sebastiandiazcol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sebastiandiazcol&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Con una doble titulación en **Ingeniería de Sistemas y Estadística**, uno la robustez técnica con el rigor analítico para construir soluciones de datos que no solo muestran lo que pasó, sino que ayudan a decidir qué hacer a continuación.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sebastiandiazcol&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
+### 🛠️ Mi Caja de Herramientas Tecnológicas
+
+| **Categoría** | **Tecnologías** |
+| :--- | :--- |
+| **Lenguajes & SQL** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **BI & Visualización** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Cloud & Databases** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+
+---
+
+### 🚀 Mis Proyectos Destacados
+
+Aquí puedes ver una selección de mi trabajo. ¡Cada proyecto es un nuevo desafío y una oportunidad de aprendizaje!
+
+| Proyecto | Descripción | Tecnologías Utilizadas |
+| :--- | :--- | :--- |
+| **[Análisis Predictivo de Deserción Estudiantil](https://github.com/tu-usuario-github/proyecto-desercion)** | Desarrollé un modelo de clasificación para predecir la probabilidad de deserción y realicé un análisis exploratorio (EDA) para identificar los factores de mayor impacto en la retención. | `Python` `Scikit-learn` `Pandas` `Tableau` |
+| **[Dashboard de Análisis de Ventas Globales](https://github.com/tu-usuario-github/proyecto-ventas)** | Diseñé un dashboard en Power BI para analizar tendencias de ventas (+1M de registros) y escribí consultas SQL complejas para la limpieza y agregación de los datos. | `SQL` `Power BI` `DAX` `ETL` |
+| **[Optimización de Inventarios MRO](https://github.com/tu-usuario-github/proyecto-mantenimiento)** | Realicé un análisis de inventario para una empresa industrial, identificando repuestos obsoletos y de baja rotación para liberar capital de trabajo. | `Python` `Pandas` `SQL` `Excel` |
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <a href="https://github.com/tu-usuario-github">
+    <img src="https://github-readme-stats.vercel.app/api?username=sebastiandiazcol&show_icons=true&theme=merko&locale=es" alt="Estadísticas de GitHub de Sebastián" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiandiazcol&layout=compact&theme=merko&locale=es" alt="Lenguajes más usados de Sebastián" />
+  </a>
+</p>
+
+---
+
+### 📫 ¡Hablemos!
+
+Estoy siempre abierto a conectar con otros profesionales del mundo de los datos y a explorar nuevas oportunidades y proyectos desafiantes.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sebastiandiazcol/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sebastiancamilodiazosorio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
